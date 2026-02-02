@@ -20,7 +20,7 @@ USAGE() {
 SSH Key Installer $VERSION
 
 Usage:
-  bash <(curl -fsSL git.io/key.sh) [options...] <arg>
+  bash <(curl -fsSL https://raw.githubusercontent.com/ly892009/SSH_Key_Installer/refs/heads/master/key.sh) [options...] <arg>
 
 Options:
   -o	Overwrite mode, this option is valid at the top
